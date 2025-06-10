@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db3b9a03-6e63-47d8-8cb9-0f3266ebeef4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oi/github/MateusSlovakSilva/VendasApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oi/github/MateusSlovakSilva/MinhaConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oi/github/MateusSlovakSilva/VendasApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oi/github/MateusSlovakSilva/VendasApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2yHfibnXIwAJktQBeAJVqHhqfJ0" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,8 +42,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.VendasApplication (1).executor": "Run",
     "Spring Boot.VendasApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -55,7 +64,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.VendasApplication (1)">
+    <configuration name="VendasApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Fullstack" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="oi.github.MateusSlovakSilva.VendasApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oi.github.MateusSlovakSilva.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VendasApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="Fullstack" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="main.java.oi.github.MateusSlovakSilva.VendasApplication" />
@@ -63,6 +85,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.VendasApplication (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -79,7 +106,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749496549261</updated>
-      <workItem from="1749496551196" duration="1537000" />
+      <workItem from="1749496551196" duration="2022000" />
+      <workItem from="1749559161314" duration="4000" />
+      <workItem from="1749580352934" duration="2996000" />
     </task>
     <servers />
   </component>
