@@ -10,4 +10,8 @@ public class MinhaConfiguration {
         return "Sistema de Vendas";
     }
 
+    @Bean (name = "outraConfiguracao")
+    public String outraConfiguracao() {
+        return "Sistema de vendas";
+    }
 }
