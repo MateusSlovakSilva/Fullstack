@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db3b9a03-6e63-47d8-8cb9-0f3266ebeef4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/oi/github/MateusSlovakSilva/repository/MeuRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oi/github/MateusSlovakSilva/service/MeuServico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oi/github/MateusSlovakSilva/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oi/github/MateusSlovakSilva/repository/ClientesRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oi/github/MateusSlovakSilva/service/ClientesService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/oi/github/MateusSlovakSilva/MinhaConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oi/github/MateusSlovakSilva/MinhaConfiguration.java" afterDir="false" />
@@ -115,6 +116,7 @@
       <workItem from="1749731801065" duration="1646000" />
       <workItem from="1749757532773" duration="49000" />
       <workItem from="1749758213510" duration="1487000" />
+      <workItem from="1749841342643" duration="998000" />
     </task>
     <servers />
   </component>
